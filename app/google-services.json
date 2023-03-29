@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086248864474",
+    "project_id": "utahousing-f3a06",
+    "storage_bucket": "utahousing-f3a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086248864474:android:0b3dbbbd5e1cbd4eb573e3",
+        "android_client_info": {
+          "package_name": "com.first.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086248864474-88lg8fvquj2jnooogdstpida6k6t7n0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAhohRTHo60RG1TOJkAiOvqzy4mTcrnGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086248864474-88lg8fvquj2jnooogdstpida6k6t7n0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
